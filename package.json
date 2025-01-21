@@ -16,5 +16,8 @@
     "url": "https://github.com/lukaszzwolak/learning-git-2/issues"
   },
   "homepage": "https://github.com/lukaszzwolak/learning-git-2#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^3.0.3"
+  }
 }
