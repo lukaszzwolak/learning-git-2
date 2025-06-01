@@ -18,6 +18,10 @@
   "homepage": "https://github.com/lukaszzwolak/learning-git-2#readme",
   "description": "",
   "devDependencies": {
-    "browser-sync": "^3.0.3"
+    "browser-sync": "^3.0.3",
+    "html-validate": "^9.1.3"
+  }
+  "scripts": {
+    "validate-html": "html-validate ."
   }
 }
